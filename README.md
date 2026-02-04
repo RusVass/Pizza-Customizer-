@@ -23,6 +23,16 @@ Pizza order manager with CRUD, theme persistence (light/dark/system), and live p
 - Zustand
 - React Hook Form + Zod
 
+## Test Task
+
+Technical Assessment: Pizza Customizer CRUD (Final Version)
+
+Scope:
+- Theme toggle with persistence and system preference support.
+- Dashboard with pizza cards and delete action.
+- Builder form for create/edit with live price.
+- Global state using Zustand with immutable updates.
+
 ## Structure
 
 - `src/components` — UI kit and layout
